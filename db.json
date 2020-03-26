@@ -55,6 +55,12 @@
           "foto": "http://www.ispartacozum.com/resimler/ispartabelediyesi_451b7e0b812f8fff346c.jpg"
         }
       ],
+    
+     "Baskan":[
+        {
+          "foto": "https://www.artukluhaber.net/resimler/aff64d63d95d772ae9b0676f2c4923bb.jpg",
+        }
+      ],
 
       "Eczane":[
         {
@@ -111,12 +117,6 @@
           "isim": "ERTURAN ECZANESİ",
           "adres": "ORTA MAH. ATATÜRK CAD. NO:57/A",
           "iletisim": "02462183626"
-        }
-      ],
-    
-    "Baskan":[
-        {
-          "foto": "https://www.artukluhaber.net/resimler/aff64d63d95d772ae9b0676f2c4923bb.jpg",
         }
       ]
 }
