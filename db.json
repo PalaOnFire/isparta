@@ -1,27 +1,89 @@
-[
-  {
-    "baslik": "Isparta caddelerinde ücretli park uygulaması",
-    "icerik": "Isparta Belediyesi'nin geçen yıl eylül meclisinde aldığı karar doğrultusunda kentteki bazı ana cadde ve sokaklarda araç parkları ücretli hale getirildi.",
-    "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e0db85beb10bb2414de4e5b.jpg"
-  },
-  {
-    "baslik": "Davraz'da kayak yarışı",
-    "icerik": "Davraz Kayak Merkezi'nde yapılan yarışlara Harmanören Kayak Spor Kulübü, Isparta Bölge Spor Kulübü, Isparta Davraz Çobanisa İhtisas Spor Kulübü, Davraz Kayak Spor Kulübü, Kayak Eğiticileri Spor Kulübü, ETUDOSD Spor Kulübü, Doğa Sporları Kulübü'nden 123 kayakçı ve 25 snowboardçu katıldı.",
-    "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e0c51cceb10bb25f0a2463b.jpg"
-  },
-  {
-    "baslik": "Otomobil beton kulübeye çarptı",
-    "icerik": "ISPARTA'da sürücünün direksiyon hakimiyetini kaybetmesi sonucu yol kenarındaki beton kulübeye çarpan otomobilin sürücüsü yaralandı.",
-    "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e021316eb10bb0f886775fe.jpg"
-  },
-  {
-    "baslik": "Gelendost'a yeni kaymakam",
-    "icerik": "ISPARTA Gelendost kaymakamlığına atanan Pınar Uz yeni görevine başladı.",
-    "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e15abe8eb10bb2548b02769.jpg"
-  },
-  {
-    "baslik": "Isparta'da asayiş uygulaması yapıldı",
-    "icerik": "ISPARTA İl Emniyet Müdürlüğü tarafından il genelinde asayiş uygulaması gerçekleştirildi. Yaklaşık 5 bin kişinin genel bilgi taraması yapılırken, çeşitli mahkemelerce aranan 9 şüpheli yakalandı.",
-    "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5debbb28eb10bb14c8e875f9.jpg"
-  }
-]
+{
+    "haberler":[
+        {
+          "id" : 1,
+          "baslik": "Isparta caddelerinde ücretli park uygulaması",
+          "icerik": "Isparta Belediyesi'nin geçen yıl eylül meclisinde aldığı karar doğrultusunda kentteki bazı ana cadde ve sokaklarda araç parkları ücretli hale getirildi.",
+          "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e0db85beb10bb2414de4e5b.jpg"
+        },
+        {
+          "id" : 2,
+          "baslik": "Davraz'da kayak yarışı",
+          "icerik": "Davraz Kayak Merkezi'nde yapılan yarışlara Harmanören Kayak Spor Kulübü, Isparta Bölge Spor Kulübü, Isparta Davraz Çobanisa İhtisas Spor Kulübü, Davraz Kayak Spor Kulübü, Kayak Eğiticileri Spor Kulübü, ETUDOSD Spor Kulübü, Doğa Sporları Kulübü'nden 123 kayakçı ve 25 snowboardçu katıldı.",
+          "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e0c51cceb10bb25f0a2463b.jpg"
+        },
+        {
+          "id" : 3,
+          "baslik": "Otomobil beton kulübeye çarptı",
+          "icerik": "ISPARTA'da sürücünün direksiyon hakimiyetini kaybetmesi sonucu yol kenarındaki beton kulübeye çarpan otomobilin sürücüsü yaralandı.",
+          "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e021316eb10bb0f886775fe.jpg"
+        },
+        {
+          "id" : 4,
+          "baslik": "Gelendost'a yeni kaymakam",
+          "icerik": "ISPARTA Gelendost kaymakamlığına atanan Pınar Uz yeni görevine başladı.",
+          "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e15abe8eb10bb2548b02769.jpg"
+        },
+        {
+          "id" : 5,
+          "baslik": "Isparta'da asayiş uygulaması yapıldı",
+          "icerik": "ISPARTA İl Emniyet Müdürlüğü tarafından il genelinde asayiş uygulaması gerçekleştirildi. Yaklaşık 5 bin kişinin genel bilgi taraması yapılırken, çeşitli mahkemelerce aranan 9 şüpheli yakalandı.",
+          "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5debbb28eb10bb14c8e875f9.jpg"
+        }
+      ],
+
+      "Etkinlikler":[
+        {
+          "baslik": "GÜNKAF’20 Isparta’ya Geliyor",
+          "icerik": "Kamu ve özel sektör kurumlarını genç yeteneklerle buluşturan ve 2020 yılı içerisinde 10 farklı ilde yapılması planlanan kariyer fuarlarından olan “Güney Kariyer Fuarı” (GÜNKAF’20) bu yıl “Kariyer 4.0” temasıyla, Süleyman Demirel Üniversitesi ev sahipliğinde, 16-17 Mart 2020 tarihlerinde Gökkubbe Ulusal Fuar ve Kongre Merkezinde gerçekleştirilecek.",
+          "foto": "https://www.isparta.edu.tr/SDU_Files/Images/günkaf-içerik.png"
+        },
+        {
+          "baslik": "Tarım Bayramı Etkinliği",
+          "icerik": "Tarımsal Eğitimin 174.yılı münasebetiyle 10 Ocak 2020 tarih ve saat 14.00'de Fakültemizde düzenlenen Tarım Bayramı etkinliğini onurlandırmanızı dileriz.",
+          "foto": "https://www.isparta.edu.tr/SDU_Files/Images/Tarımsal%20Eğitimin%20174_%20Yılı%20Davetiye.jpeg"
+        },
+        {
+          "baslik": "Isparta Mesleki ve Teknik Eğitim Farkındalık Etkinlikleri",
+          "icerik": "Isparta Mesleki ve Teknik Eğitim Farkındalık Etkinlikleri ",
+          "foto": "https://www.isparta.edu.tr/SDU_Files/Images/32fe2e23-b0ac-4de4-8e48-5f62ed68136e.jpg"
+        }
+      ],
+
+      "iletisim":[
+        {
+          "foto": "http://www.ispartacozum.com/resimler/ispartabelediyesi_451b7e0b812f8fff346c.jpg"
+        }
+      ],
+
+      "Eczane":[
+        {
+          "isim": "DERMAN ECZANESİ",
+          "adres": "İSTİKLAL MAH. 113.CAD. MALİYE ÜSTÜ NO:80",
+          "iletisim": "02462183626",
+          "tarih":""
+        },
+        {
+          "isim": "ÜLGEN ECZANESİ",
+          "adres": "İSKENDER MAH. AKSU CAD. SERMET SAĞLIK OCAĞI KARŞISI NO:40",
+          "iletisim": "02465002220"
+        },
+        {
+          "isim": "ÇANKAYA ECZANESİ",
+          "adres": "1.SAHİL YOLU NO:12/B",
+          "iletisim": "02462183626"
+        },
+        {
+          "isim": "SİNANPAŞA ECZANESİ",
+          "adres": "YEDİŞEHİTLER MAH. 108.CAD. CUMA PAZARI KARŞISI 2922 SOK. NO:41/2",
+          "iletisim": "02462183626"
+        },
+        {
+          "isim": "ERTURAN ECZANESİ",
+          "adres": "ORTA MAH. ATATÜRK CAD. NO:57/A",
+          "iletisim": "02462183626"
+        }
+      ]
+
+
+}
