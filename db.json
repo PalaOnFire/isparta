@@ -114,15 +114,12 @@
         }
       ],
     
-     "Baskan":
-    [
-      {
-        "foto": "https://www.artukluhaber.net/resimler/aff64d63d95d772ae9b0676f2c4923bb.jpg",
-        "biyografigiris": "7 Ocak 1962 yılında Isparta’da doğdum. İlk, orta ve lise eğitimimi Isparta’da tamamladıktan sonra İşletme Fakültesinde okudum ve Süleyman Demirel Üniversitesi Kamu Yönetiminde Yüksek Lisansımı yaptım. 30 yıldır inşaat ve inşaat malzemeleri ticaretiyle uğraşıyorum. Aynı zamanda gıda, hayvancılık ve enerji sektöründe de ticari faaliyetlerimi sürdürmekteyim.",
-        "biyografigelisme": "Bir dönem belediye meclis üyeliği görevinde bulundum. 2001 yılından itibaren Ticaret ve Sanayi Odasında pek çok görevde yer aldım ve 2013 yılından bu yana da Ticaret ve Sanayi Odası Yönetim Kurulu Başkanlığı görevini yürüttüm. Aynı zamanda Türkiye Odalar ve Borsalar Birliği Ticaret ve Sanayi Odaları Konsey Üyeliği, Dünyanın en büyük iş örgütü Milletlerarası Ticaret Odası (ICC) Türkiye Milli Komitesi Yönetim Kurulu Üyeliği, Avrupa İşletmeler Meclis Üyeliği, Batı Akdeniz Kalkınma Ajansı Yönetim Kurulu Üyeliği görevlerinde bulundum. Başta yardım dernekleri ve spor kulüpleri olmak üzere, Isparta açısından önem arz eden birçok sosyal çalışmada aktif görevler aldım. Süleyman Demirel Üniversitesi Hukuk Fakültesi binasının yapımıyla ilgili komitenin başkanlığını yürüttüm. Hafız İbrahim Demiralay Okulu’nun yapımında komite başkanlığı yaptım ve birçok eğitim kurumunun da hayırseverler yardımıyla yapılmasına vesile oldum.",
-        "biyografisonuc": "Orta derecede İngilizce biliyorum. Evliyim ve 2 çocuk babasıyım. 31 Mart 2019 Yerel Seçimlerinde AK PARTİ'den Isparta Belediye Başkanı olarak seçildim.",
-      },
-    ]
-
-
+     "Baskan":[
+        {
+          "foto": "https://www.artukluhaber.net/resimler/aff64d63d95d772ae9b0676f2c4923bb.jpg",
+          "biyografigiris": "7 Ocak 1962 yılında Isparta’da doğdum. İlk, orta ve lise eğitimimi Isparta’da tamamladıktan sonra İşletme Fakültesinde okudum ve Süleyman Demirel Üniversitesi Kamu Yönetiminde Yüksek Lisansımı yaptım. 30 yıldır inşaat ve inşaat malzemeleri ticaretiyle uğraşıyorum. Aynı zamanda gıda, hayvancılık ve enerji sektöründe de ticari faaliyetlerimi sürdürmekteyim.",
+          "biyografigelisme": "Bir dönem belediye meclis üyeliği görevinde bulundum. 2001 yılından itibaren Ticaret ve Sanayi Odasında pek çok görevde yer aldım ve 2013 yılından bu yana da Ticaret ve Sanayi Odası Yönetim Kurulu Başkanlığı görevini yürüttüm. Aynı zamanda Türkiye Odalar ve Borsalar Birliği Ticaret ve Sanayi Odaları Konsey Üyeliği, Dünyanın en büyük iş örgütü Milletlerarası Ticaret Odası (ICC) Türkiye Milli Komitesi Yönetim Kurulu Üyeliği, Avrupa İşletmeler Meclis Üyeliği, Batı Akdeniz Kalkınma Ajansı Yönetim Kurulu Üyeliği görevlerinde bulundum. Başta yardım dernekleri ve spor kulüpleri olmak üzere, Isparta açısından önem arz eden birçok sosyal çalışmada aktif görevler aldım. Süleyman Demirel Üniversitesi Hukuk Fakültesi binasının yapımıyla ilgili komitenin başkanlığını yürüttüm. Hafız İbrahim Demiralay Okulu’nun yapımında komite başkanlığı yaptım ve birçok eğitim kurumunun da hayırseverler yardımıyla yapılmasına vesile oldum.",
+          "biyografisonuc": "Orta derecede İngilizce biliyorum. Evliyim ve 2 çocuk babasıyım. 31 Mart 2019 Yerel Seçimlerinde AK PARTİ'den Isparta Belediye Başkanı olarak seçildim.",
+        },
+      ]
 }
