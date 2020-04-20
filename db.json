@@ -47,32 +47,47 @@
     
       "Eczane":[
         {
-          "isim": "DERMAN ECZANESİ",
-          "adres": "İSTİKLAL MAH. 113.CAD. MALİYE ÜSTÜ NO:80",
-          "iletisim": "02462183626",
-          "tarih":""
+          "isim": " DİLEK ECZANESİ",
+          "adres": " DAVRAZ MAH. 104.CAD. ŞEHİR HASTANESİ KARŞISI",
+          "iletisim": "02462182777",
         },
         {
-          "isim": "ÜLGEN ECZANESİ",
-          "adres": "İSKENDER MAH. AKSU CAD. SERMET SAĞLIK OCAĞI KARŞISI NO:40",
-          "iletisim": "02465002220"
+          "isim": " ESRA ECZANESİ",
+          "adres": " KURTULUŞ MAHALLESİ 1420 SOKAK KESİKBAŞ IYAS KARŞISI NO:2/12",
+          "iletisim": "02462327565"
         },
         {
-          "isim": "ÇANKAYA ECZANESİ",
-          "adres": "1.SAHİL YOLU NO:12/B",
-          "iletisim": "02462183626"
+          "isim": "YARAR ECZANESİ",
+          "adres": " ANADOLU MAH. BELEDİYE SOSYAL TESİSLER NO:5",
+          "iletisim": "02462121616"
         },
         {
-          "isim": "SİNANPAŞA ECZANESİ",
-          "adres": "YEDİŞEHİTLER MAH. 108.CAD. CUMA PAZARI KARŞISI 2922 SOK. NO:41/2",
-          "iletisim": "02462183626"
+          "isim": "DEMİR ECZANESİ",
+          "adres": "KEÇİBORLU/TUZLA MAH. REFİK SAYDAM CAD. NO:18/A",
+          "iletisim": "02465414318"
         },
         {
-          "isim": "ERTURAN ECZANESİ",
-          "adres": "ORTA MAH. ATATÜRK CAD. NO:57/A",
-          "iletisim": "02462183626"
-        }
+          "isim": "TAŞLIPINAR ECZANESİ",
+          "adres": "EĞİRDİR/İMARET MAH. DR.İSA KÖKLÜ CAD. NO:160/A",
+          "iletisim": "02463113344"
+        },
+        {
+          "isim": "HEYBELİOĞLU ECZANESİ",
+          "adres": "SENİRKENT/TAŞMESCİT MAH. DR.TAHSİN TOLA CAD. NO:2/C",
+          "iletisim": "02465114418"
+        },
+        {
+          "isim": " YENİ UMUT ECZANESİ",
+          "adres": " YALVAÇ/DEBBAĞLAR MAH. MESCİT CADDESİ NO:36/B",
+          "iletisim": "02464417302"
+        },
+        {
+          "isim": "CAN ECZANESİ",
+          "adres": "ŞARKİKARAAĞAÇ/ULVİKALE MAH. 114.HASTANE CAD. NO:31",
+          "iletisim": "02464113418"
+        }  
       ],
+    
     
     "baskan":[
         {
