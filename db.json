@@ -1,35 +1,30 @@
 {
     "haberler":[
         {
-          "id" : 1,
-          "baslik": "Isparta caddelerinde ücretli park uygulaması",
-          "icerik": "Isparta Belediyesi'nin geçen yıl eylül meclisinde aldığı karar doğrultusunda kentteki bazı ana cadde ve sokaklarda araç parkları ücretli hale getirildi.",
-          "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e0db85beb10bb2414de4e5b.jpg"
-        },
-        {
-          "id" : 2,
-          "baslik": "Davraz'da kayak yarışı",
-          "icerik": "Davraz Kayak Merkezi'nde yapılan yarışlara Harmanören Kayak Spor Kulübü, Isparta Bölge Spor Kulübü, Isparta Davraz Çobanisa İhtisas Spor Kulübü, Davraz Kayak Spor Kulübü, Kayak Eğiticileri Spor Kulübü, ETUDOSD Spor Kulübü, Doğa Sporları Kulübü'nden 123 kayakçı ve 25 snowboardçu katıldı.",
-          "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e0c51cceb10bb25f0a2463b.jpg"
-        },
-        {
-          "id" : 3,
-          "baslik": "Otomobil beton kulübeye çarptı",
-          "icerik": "ISPARTA'da sürücünün direksiyon hakimiyetini kaybetmesi sonucu yol kenarındaki beton kulübeye çarpan otomobilin sürücüsü yaralandı.",
-          "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e021316eb10bb0f886775fe.jpg"
-        },
-        {
-          "id" : 4,
-          "baslik": "Gelendost'a yeni kaymakam",
-          "icerik": "ISPARTA Gelendost kaymakamlığına atanan Pınar Uz yeni görevine başladı.",
-          "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5e15abe8eb10bb2548b02769.jpg"
-        },
-        {
-          "id" : 5,
-          "baslik": "Isparta'da asayiş uygulaması yapıldı",
-          "icerik": "ISPARTA İl Emniyet Müdürlüğü tarafından il genelinde asayiş uygulaması gerçekleştirildi. Yaklaşık 5 bin kişinin genel bilgi taraması yapılırken, çeşitli mahkemelerce aranan 9 şüpheli yakalandı.",
-          "foto": "https://i4.hurimg.com/i/hurriyet/75/590x332/5debbb28eb10bb14c8e875f9.jpg"
-        }
+    "baslik": "Jandarmadan kaçak balık avcılarına operasyon",
+    "icerik": "Isparta İl Jandarma Komutanlığı ekipleri kaçak avcılıkla ilgili yaptığı denetimlerde çok sayıda avlanmış balık, kerevit sepeti ve misina ağı ele geçirdi. Denetimlerde yakalanan şüphelilere toplam 5 bin lira idari para cezası kesildi.",
+    "foto": "https://foto.sondakika.com/haber/2020/04/20/jandarmadan-kacak-balik-avcilarina-operasyon-13141722_osd.jpg"
+  },
+  {
+    "baslik": "İki otomobil kafa kafaya çapıştı: 7 yaralı",
+    "icerik": "Kaza saat 13.30 sıralarında Deregümü Köyü Kavşağı'nda meydana geldi. M.H. yönetimindeki 32 HH 394 plakalı otomobil ile karşı istikametten gelen R.G.'nin kullandığı otomobil kafa kafaya çarpıştı. Kazanın ardından olay yerine jandarma ve 112 Acil Servis ekipleri sevk edildi. Kazada iki araçta bulunan toplam 7 kişi yaralanırken, yaralılar olay yerinde sağlık ekiplerinin ilk müdahalesinin ardından ambulanslarla hastaneye kaldırıldı. Yaralıların sağlık durumlarının iyi olduğu öğrenildi.",
+    "foto": "https://foto.sondakika.com/haber/2020/04/19/iki-otomobil-kafa-kafaya-capisti-7-yarali-13140204_o.jpg"
+  },
+  {
+    "baslik": "Kuveyt'ten gelen 349 Türk vatandaşından 75'i Isparta'da karantina altına alındı",
+    "icerik": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın talimatıyla yurt dışındaki 25 bin Türk vatandaşı için başlatılan tahliye operasyonu kapsamında Kuveyt'ten getirilen 349 kişiden 75'i Isparta'daki KYK yurdunda karantinaya alındı.",
+    "foto": "https://foto.sondakika.com/haber/2020/04/17/kuveyt-ten-gelen-349-turk-vatandasindan-75-i-13134079_osd.jpg"
+  },
+  {
+    "baslik": "16 YAŞINDAKİ GENÇ EVİNDE ÖLÜ BULUNDU",
+    "icerik": "Olay, sabah saatlerinde Fatih Mahallesi 4511 Sokak üzerinde 4 katlı bir binanın çatı katında meydana geldi. Ailesi bir süredir haber alamadıkları Yunus Bisi'yi odasında hareketsiz buldu. İhbar üzerine adrese polis ve sağlık ekipleri sevk edildi. Sağlık görevlileri yaptıkları incelemede Yunus Bisi'nin yaşamını yitirdiğini belirledi.",
+    "foto": "https://i2.cnnturk.com/i/cnnturk/75/650x325/5e9b0124b57f15009c1e2f57.jpg"
+  },
+  {
+    "baslik": "Isparta İl Jandarma Komutanlığı Basın Duyurusu",
+    "icerik": "Isparta il merkezine ruhsatsız silah getirileceğine dair alınan duyum üzerine, Senirkent ilçesi Uluğbey-Tatarlı Köyü yolu üzerinde durdurulan şüpheli otomobilde yapılan aramada, torpido bölmesine gizlenmiş, (2) adet ruhsatsız Browning marka 9 mm. tabanca ve tabancalara ait (2) adet şarjör ve (34) adet tabanca fişeği ele geçirilmiştir.",
+    "foto": "https://i.ibb.co/R3Jn7HN/l-Jandarma-Komtanl-Bas-n-Duyurusu-Foto-1.jpg"
+  }
       ],
 
       "Etkinlikler":[
